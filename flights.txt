@@ -1,0 +1,13 @@
+KL102 Kyiv London 02 05 15 30 5 20
+KL105 Kyiv London 05 05 09 15 3 12
+KL110 Kyiv London 02 05 21 00 2 30
+KL120 Kyiv London 07 05 10 00 10 50
+UI404 Warsaw Paris 02 05 10 00 2 50
+UI410 Warsaw Paris 04 05 18 20 0 15
+UI415 Warsaw Paris 02 05 23 45 1 10
+AF777 Berlin Rome 01 05 22 45 10 100
+AF780 Berlin Rome 03 05 07 30 5 45
+AF790 Berlin Rome 05 05 12 00 2 10
+LH200 Kyiv Munich 02 05 08 00 4 30
+LH205 Kyiv Munich 02 05 20 00 2 15
+AZ300 Rome Tokyo 10 05 14 00 5 25

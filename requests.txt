@@ -1,0 +1,10 @@
+Ivanov_Ivan_Sergiyovych 2 15 04 12 30 Kyiv London 02 05 0 2
+Petrenko_Olena_Vasylivna 1 20 04 12 45 Warsaw Paris 02 05 1 1
+Sydorenko_Oleg_Ihorovych 3 25 04 13 00 Berlin Rome 05 05 0 4
+Bondar_Mariya_Olexiivna 2 28 04 13 15 Kyiv London 02 05 0 4
+Kovalenko_Dmytro_Petrovych 1 29 04 14 00 Warsaw Paris 02 05 1 55
+Moroz_Igor_Viktorovych 2 30 04 08 00 Kyiv Munich 02 05 0 2
+Shevchenko_Anna_Yuriivna 2 30 04 09 00 Kyiv Munich 02 05 0 3
+Tymoshch_Olexandr_Petrovych 3 01 05 10 00 Kyiv London 05 05 1 10
+Kuznetsov_Artem_Ihorovych 1 02 05 11 00 Kyiv Tokyo 15 05 1 1
+Zaitsev_Dmytro_Olexandrovych 2 03 05 15 00 Rome Tokyo 10 05 0 2
